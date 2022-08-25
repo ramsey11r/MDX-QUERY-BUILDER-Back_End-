@@ -1,0 +1,725 @@
+F:\PFE\partieback\partieback\partieback\bin\partieback.dll.config
+F:\PFE\partieback\partieback\partieback\bin\partieback.dll
+F:\PFE\partieback\partieback\partieback\bin\partieback.pdb
+F:\PFE\partieback\partieback\partieback\bin\roslyn\csc.exe
+F:\PFE\partieback\partieback\partieback\bin\roslyn\csc.exe.config
+F:\PFE\partieback\partieback\partieback\bin\roslyn\csc.rsp
+F:\PFE\partieback\partieback\partieback\bin\roslyn\csi.exe
+F:\PFE\partieback\partieback\partieback\bin\roslyn\csi.exe.config
+F:\PFE\partieback\partieback\partieback\bin\roslyn\csi.rsp
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.Managed.Core.targets
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PFE\partieback\partieback\partieback\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.AppContext.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Collections.Immutable.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Console.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Globalization.Calendars.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.IO.Compression.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.IO.FileSystem.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Net.Http.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Net.Sockets.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Reflection.Metadata.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.ValueTuple.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Xml.XmlDocument.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Xml.XPath.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\PFE\partieback\partieback\partieback\bin\roslyn\vbc.exe
+F:\PFE\partieback\partieback\partieback\bin\roslyn\vbc.exe.config
+F:\PFE\partieback\partieback\partieback\bin\roslyn\vbc.rsp
+F:\PFE\partieback\partieback\partieback\bin\roslyn\VBCSCompiler.exe
+F:\PFE\partieback\partieback\partieback\bin\roslyn\VBCSCompiler.exe.config
+F:\PFE\partieback\partieback\partieback\bin\Antlr3.Runtime.dll
+F:\PFE\partieback\partieback\partieback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PFE\partieback\partieback\partieback\bin\Microsoft.Web.Infrastructure.dll
+F:\PFE\partieback\partieback\partieback\bin\Newtonsoft.Json.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Net.Http.Formatting.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Helpers.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Http.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Http.WebHost.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Mvc.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Optimization.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Razor.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Web.WebPages.Deployment.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Web.WebPages.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Web.WebPages.Razor.dll
+F:\PFE\partieback\partieback\partieback\bin\WebGrease.dll
+F:\PFE\partieback\partieback\partieback\bin\Newtonsoft.Json.xml
+F:\PFE\partieback\partieback\partieback\bin\System.Net.Http.Formatting.xml
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Helpers.xml
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Http.xml
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Http.WebHost.xml
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Mvc.xml
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Optimization.xml
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Razor.xml
+F:\PFE\partieback\partieback\partieback\bin\System.Web.WebPages.xml
+F:\PFE\partieback\partieback\partieback\bin\System.Web.WebPages.Deployment.xml
+F:\PFE\partieback\partieback\partieback\bin\System.Web.WebPages.Razor.xml
+F:\PFE\partieback\partieback\partieback\bin\Antlr3.Runtime.pdb
+F:\PFE\partieback\partieback\partieback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PFE\partieback\partieback\partieback\bin\fr\System.Net.Http.Formatting.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\fr\System.Web.Helpers.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\fr\System.Web.Http.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\fr\System.Web.Http.WebHost.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\fr\System.Web.Mvc.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\fr\System.Web.Optimization.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\fr\System.Web.Razor.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\fr\System.Web.WebPages.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\fr\System.Web.WebPages.Deployment.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\fr\System.Web.WebPages.Razor.resources.dll
+F:\PFE\partieback\partieback\partieback\obj\Debug\partieback.csproj.AssemblyReference.cache
+F:\PFE\partieback\partieback\partieback\obj\Debug\partieback.csproj.CoreCompileInputs.cache
+F:\PFE\partieback\partieback\partieback\obj\Debug\partieback.csproj.CopyComplete
+F:\PFE\partieback\partieback\partieback\obj\Debug\partieback.dll
+F:\PFE\partieback\partieback\partieback\obj\Debug\partieback.pdb
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Cors.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Http.Cors.dll
+F:\PFE\partieback\partieback\partieback\bin\System.Web.Http.Cors.xml
+F:\PFE\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.AdomdClient.dll
+F:\PFE\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+F:\PFE\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.AdomdClient.xml
+F:\PFE\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+F:\PFE\partieback\partieback\partieback\bin\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\zh-HANS\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\PFE\partieback\partieback\partieback\bin\zh-HANT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\partieback.dll.config
+F:\pfe origine\partieback\partieback\partieback\bin\partieback.dll
+F:\pfe origine\partieback\partieback\partieback\bin\partieback.pdb
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\csc.exe
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\csc.exe.config
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\csc.rsp
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\csi.exe
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\csi.exe.config
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\csi.rsp
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.Managed.Core.targets
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.AppContext.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Collections.Immutable.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Console.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Globalization.Calendars.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.IO.Compression.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.IO.FileSystem.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Net.Http.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Net.Sockets.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Reflection.Metadata.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.ValueTuple.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Xml.XmlDocument.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Xml.XPath.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\vbc.exe
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\vbc.exe.config
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\vbc.rsp
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\VBCSCompiler.exe
+F:\pfe origine\partieback\partieback\partieback\bin\roslyn\VBCSCompiler.exe.config
+F:\pfe origine\partieback\partieback\partieback\bin\Antlr3.Runtime.dll
+F:\pfe origine\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.AdomdClient.dll
+F:\pfe origine\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+F:\pfe origine\partieback\partieback\partieback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\pfe origine\partieback\partieback\partieback\bin\Microsoft.Web.Infrastructure.dll
+F:\pfe origine\partieback\partieback\partieback\bin\Newtonsoft.Json.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Net.Http.Formatting.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Cors.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Helpers.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.Cors.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.WebHost.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Mvc.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Optimization.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Razor.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.Deployment.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.dll
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.Razor.dll
+F:\pfe origine\partieback\partieback\partieback\bin\WebGrease.dll
+F:\pfe origine\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.AdomdClient.xml
+F:\pfe origine\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.Cors.xml
+F:\pfe origine\partieback\partieback\partieback\bin\Newtonsoft.Json.xml
+F:\pfe origine\partieback\partieback\partieback\bin\System.Net.Http.Formatting.xml
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Helpers.xml
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.xml
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.WebHost.xml
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Mvc.xml
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Optimization.xml
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.Razor.xml
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.xml
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.Deployment.xml
+F:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.Razor.xml
+F:\pfe origine\partieback\partieback\partieback\bin\Antlr3.Runtime.pdb
+F:\pfe origine\partieback\partieback\partieback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\pfe origine\partieback\partieback\partieback\bin\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\zh-HANS\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\zh-HANT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fr\System.Net.Http.Formatting.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Helpers.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Http.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Http.WebHost.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Mvc.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Optimization.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Razor.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.WebPages.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.WebPages.Deployment.resources.dll
+F:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.WebPages.Razor.resources.dll
+F:\pfe origine\partieback\partieback\partieback\obj\Debug\partieback.csproj.AssemblyReference.cache
+F:\pfe origine\partieback\partieback\partieback\obj\Debug\partieback.csproj.CoreCompileInputs.cache
+F:\pfe origine\partieback\partieback\partieback\obj\Debug\partieback.csproj.CopyComplete
+F:\pfe origine\partieback\partieback\partieback\obj\Debug\partieback.dll
+F:\pfe origine\partieback\partieback\partieback\obj\Debug\partieback.pdb
+C:\pfe origine\partieback\partieback\partieback\bin\partieback.dll.config
+C:\pfe origine\partieback\partieback\partieback\bin\partieback.dll
+C:\pfe origine\partieback\partieback\partieback\bin\partieback.pdb
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\csc.exe
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\csc.exe.config
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\csc.rsp
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\csi.exe
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\csi.exe.config
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\csi.rsp
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.Managed.Core.targets
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.AppContext.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Collections.Immutable.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Console.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Globalization.Calendars.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.IO.Compression.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.IO.FileSystem.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Net.Http.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Net.Sockets.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Reflection.Metadata.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.ValueTuple.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Xml.XmlDocument.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Xml.XPath.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\vbc.exe
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\vbc.exe.config
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\vbc.rsp
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\VBCSCompiler.exe
+C:\pfe origine\partieback\partieback\partieback\bin\roslyn\VBCSCompiler.exe.config
+C:\pfe origine\partieback\partieback\partieback\bin\Antlr3.Runtime.dll
+C:\pfe origine\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\pfe origine\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+C:\pfe origine\partieback\partieback\partieback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\pfe origine\partieback\partieback\partieback\bin\Microsoft.Web.Infrastructure.dll
+C:\pfe origine\partieback\partieback\partieback\bin\Newtonsoft.Json.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Net.Http.Formatting.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Cors.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Helpers.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.Cors.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.WebHost.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Mvc.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Optimization.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Razor.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.Deployment.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.dll
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.Razor.dll
+C:\pfe origine\partieback\partieback\partieback\bin\WebGrease.dll
+C:\pfe origine\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.AdomdClient.xml
+C:\pfe origine\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.Cors.xml
+C:\pfe origine\partieback\partieback\partieback\bin\Newtonsoft.Json.xml
+C:\pfe origine\partieback\partieback\partieback\bin\System.Net.Http.Formatting.xml
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Helpers.xml
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.xml
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Http.WebHost.xml
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Mvc.xml
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Optimization.xml
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.Razor.xml
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.xml
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.Deployment.xml
+C:\pfe origine\partieback\partieback\partieback\bin\System.Web.WebPages.Razor.xml
+C:\pfe origine\partieback\partieback\partieback\bin\Antlr3.Runtime.pdb
+C:\pfe origine\partieback\partieback\partieback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\pfe origine\partieback\partieback\partieback\bin\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\zh-HANS\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\zh-HANT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Helpers.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Http.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Mvc.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Optimization.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.Razor.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.WebPages.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\pfe origine\partieback\partieback\partieback\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\pfe origine\partieback\partieback\partieback\obj\Debug\partieback.csproj.AssemblyReference.cache
+C:\pfe origine\partieback\partieback\partieback\obj\Debug\partieback.csproj.CoreCompileInputs.cache
+C:\pfe origine\partieback\partieback\partieback\obj\Debug\partieback.csproj.CopyComplete
+C:\pfe origine\partieback\partieback\partieback\obj\Debug\partieback.dll
+C:\pfe origine\partieback\partieback\partieback\obj\Debug\partieback.pdb
+C:\a\partieback\partieback\partieback\bin\partieback.dll.config
+C:\a\partieback\partieback\partieback\bin\partieback.dll
+C:\a\partieback\partieback\partieback\bin\partieback.pdb
+C:\a\partieback\partieback\partieback\bin\roslyn\csc.exe
+C:\a\partieback\partieback\partieback\bin\roslyn\csc.exe.config
+C:\a\partieback\partieback\partieback\bin\roslyn\csc.rsp
+C:\a\partieback\partieback\partieback\bin\roslyn\csi.exe
+C:\a\partieback\partieback\partieback\bin\roslyn\csi.exe.config
+C:\a\partieback\partieback\partieback\bin\roslyn\csi.rsp
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.Managed.Core.targets
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\a\partieback\partieback\partieback\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.AppContext.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Collections.Immutable.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Console.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Globalization.Calendars.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.IO.Compression.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.IO.FileSystem.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Net.Http.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Net.Sockets.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Reflection.Metadata.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.ValueTuple.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Xml.XmlDocument.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Xml.XPath.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\a\partieback\partieback\partieback\bin\roslyn\vbc.exe
+C:\a\partieback\partieback\partieback\bin\roslyn\vbc.exe.config
+C:\a\partieback\partieback\partieback\bin\roslyn\vbc.rsp
+C:\a\partieback\partieback\partieback\bin\roslyn\VBCSCompiler.exe
+C:\a\partieback\partieback\partieback\bin\roslyn\VBCSCompiler.exe.config
+C:\a\partieback\partieback\partieback\bin\Antlr3.Runtime.dll
+C:\a\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\a\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+C:\a\partieback\partieback\partieback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\a\partieback\partieback\partieback\bin\Microsoft.Web.Infrastructure.dll
+C:\a\partieback\partieback\partieback\bin\Newtonsoft.Json.dll
+C:\a\partieback\partieback\partieback\bin\System.Net.Http.Formatting.dll
+C:\a\partieback\partieback\partieback\bin\System.Web.Cors.dll
+C:\a\partieback\partieback\partieback\bin\System.Web.Helpers.dll
+C:\a\partieback\partieback\partieback\bin\System.Web.Http.Cors.dll
+C:\a\partieback\partieback\partieback\bin\System.Web.Http.dll
+C:\a\partieback\partieback\partieback\bin\System.Web.Http.WebHost.dll
+C:\a\partieback\partieback\partieback\bin\System.Web.Mvc.dll
+C:\a\partieback\partieback\partieback\bin\System.Web.Optimization.dll
+C:\a\partieback\partieback\partieback\bin\System.Web.Razor.dll
+C:\a\partieback\partieback\partieback\bin\System.Web.WebPages.Deployment.dll
+C:\a\partieback\partieback\partieback\bin\System.Web.WebPages.dll
+C:\a\partieback\partieback\partieback\bin\System.Web.WebPages.Razor.dll
+C:\a\partieback\partieback\partieback\bin\WebGrease.dll
+C:\a\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.AdomdClient.xml
+C:\a\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+C:\a\partieback\partieback\partieback\bin\System.Web.Http.Cors.xml
+C:\a\partieback\partieback\partieback\bin\Newtonsoft.Json.xml
+C:\a\partieback\partieback\partieback\bin\System.Net.Http.Formatting.xml
+C:\a\partieback\partieback\partieback\bin\System.Web.Helpers.xml
+C:\a\partieback\partieback\partieback\bin\System.Web.Http.xml
+C:\a\partieback\partieback\partieback\bin\System.Web.Http.WebHost.xml
+C:\a\partieback\partieback\partieback\bin\System.Web.Mvc.xml
+C:\a\partieback\partieback\partieback\bin\System.Web.Optimization.xml
+C:\a\partieback\partieback\partieback\bin\System.Web.Razor.xml
+C:\a\partieback\partieback\partieback\bin\System.Web.WebPages.xml
+C:\a\partieback\partieback\partieback\bin\System.Web.WebPages.Deployment.xml
+C:\a\partieback\partieback\partieback\bin\System.Web.WebPages.Razor.xml
+C:\a\partieback\partieback\partieback\bin\Antlr3.Runtime.pdb
+C:\a\partieback\partieback\partieback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\a\partieback\partieback\partieback\bin\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\zh-HANS\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\zh-HANT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\a\partieback\partieback\partieback\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\a\partieback\partieback\partieback\bin\fr\System.Web.Helpers.resources.dll
+C:\a\partieback\partieback\partieback\bin\fr\System.Web.Http.resources.dll
+C:\a\partieback\partieback\partieback\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\a\partieback\partieback\partieback\bin\fr\System.Web.Mvc.resources.dll
+C:\a\partieback\partieback\partieback\bin\fr\System.Web.Optimization.resources.dll
+C:\a\partieback\partieback\partieback\bin\fr\System.Web.Razor.resources.dll
+C:\a\partieback\partieback\partieback\bin\fr\System.Web.WebPages.resources.dll
+C:\a\partieback\partieback\partieback\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\a\partieback\partieback\partieback\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\a\partieback\partieback\partieback\obj\Debug\partieback.csproj.AssemblyReference.cache
+C:\a\partieback\partieback\partieback\obj\Debug\partieback.csproj.CoreCompileInputs.cache
+C:\a\partieback\partieback\partieback\obj\Debug\partieback.csproj.CopyComplete
+C:\a\partieback\partieback\partieback\obj\Debug\partieback.dll
+C:\a\partieback\partieback\partieback\obj\Debug\partieback.pdb
+C:\angular\partieback\partieback\partieback\bin\partieback.dll.config
+C:\angular\partieback\partieback\partieback\bin\partieback.dll
+C:\angular\partieback\partieback\partieback\bin\partieback.pdb
+C:\angular\partieback\partieback\partieback\bin\roslyn\csc.exe
+C:\angular\partieback\partieback\partieback\bin\roslyn\csc.exe.config
+C:\angular\partieback\partieback\partieback\bin\roslyn\csc.rsp
+C:\angular\partieback\partieback\partieback\bin\roslyn\csi.exe
+C:\angular\partieback\partieback\partieback\bin\roslyn\csi.exe.config
+C:\angular\partieback\partieback\partieback\bin\roslyn\csi.rsp
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.Managed.Core.targets
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\angular\partieback\partieback\partieback\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.AppContext.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Collections.Immutable.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Console.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Globalization.Calendars.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.IO.Compression.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.IO.FileSystem.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Net.Http.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Net.Sockets.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Reflection.Metadata.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.ValueTuple.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Xml.XmlDocument.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Xml.XPath.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\angular\partieback\partieback\partieback\bin\roslyn\vbc.exe
+C:\angular\partieback\partieback\partieback\bin\roslyn\vbc.exe.config
+C:\angular\partieback\partieback\partieback\bin\roslyn\vbc.rsp
+C:\angular\partieback\partieback\partieback\bin\roslyn\VBCSCompiler.exe
+C:\angular\partieback\partieback\partieback\bin\roslyn\VBCSCompiler.exe.config
+C:\angular\partieback\partieback\partieback\bin\Antlr3.Runtime.dll
+C:\angular\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\angular\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+C:\angular\partieback\partieback\partieback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\angular\partieback\partieback\partieback\bin\Microsoft.Web.Infrastructure.dll
+C:\angular\partieback\partieback\partieback\bin\Newtonsoft.Json.dll
+C:\angular\partieback\partieback\partieback\bin\System.Net.Http.Formatting.dll
+C:\angular\partieback\partieback\partieback\bin\System.Web.Cors.dll
+C:\angular\partieback\partieback\partieback\bin\System.Web.Helpers.dll
+C:\angular\partieback\partieback\partieback\bin\System.Web.Http.Cors.dll
+C:\angular\partieback\partieback\partieback\bin\System.Web.Http.dll
+C:\angular\partieback\partieback\partieback\bin\System.Web.Http.WebHost.dll
+C:\angular\partieback\partieback\partieback\bin\System.Web.Mvc.dll
+C:\angular\partieback\partieback\partieback\bin\System.Web.Optimization.dll
+C:\angular\partieback\partieback\partieback\bin\System.Web.Razor.dll
+C:\angular\partieback\partieback\partieback\bin\System.Web.WebPages.Deployment.dll
+C:\angular\partieback\partieback\partieback\bin\System.Web.WebPages.dll
+C:\angular\partieback\partieback\partieback\bin\System.Web.WebPages.Razor.dll
+C:\angular\partieback\partieback\partieback\bin\WebGrease.dll
+C:\angular\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.AdomdClient.xml
+C:\angular\partieback\partieback\partieback\bin\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+C:\angular\partieback\partieback\partieback\bin\System.Web.Http.Cors.xml
+C:\angular\partieback\partieback\partieback\bin\Newtonsoft.Json.xml
+C:\angular\partieback\partieback\partieback\bin\System.Net.Http.Formatting.xml
+C:\angular\partieback\partieback\partieback\bin\System.Web.Helpers.xml
+C:\angular\partieback\partieback\partieback\bin\System.Web.Http.xml
+C:\angular\partieback\partieback\partieback\bin\System.Web.Http.WebHost.xml
+C:\angular\partieback\partieback\partieback\bin\System.Web.Mvc.xml
+C:\angular\partieback\partieback\partieback\bin\System.Web.Optimization.xml
+C:\angular\partieback\partieback\partieback\bin\System.Web.Razor.xml
+C:\angular\partieback\partieback\partieback\bin\System.Web.WebPages.xml
+C:\angular\partieback\partieback\partieback\bin\System.Web.WebPages.Deployment.xml
+C:\angular\partieback\partieback\partieback\bin\System.Web.WebPages.Razor.xml
+C:\angular\partieback\partieback\partieback\bin\Antlr3.Runtime.pdb
+C:\angular\partieback\partieback\partieback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\angular\partieback\partieback\partieback\bin\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\zh-HANS\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\zh-HANT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fr\System.Web.Helpers.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fr\System.Web.Http.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fr\System.Web.Mvc.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fr\System.Web.Optimization.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fr\System.Web.Razor.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fr\System.Web.WebPages.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\angular\partieback\partieback\partieback\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\angular\partieback\partieback\partieback\obj\Debug\partieback.csproj.AssemblyReference.cache
+C:\angular\partieback\partieback\partieback\obj\Debug\partieback.csproj.CoreCompileInputs.cache
+C:\angular\partieback\partieback\partieback\obj\Debug\partieback.csproj.CopyComplete
+C:\angular\partieback\partieback\partieback\obj\Debug\partieback.dll
+C:\angular\partieback\partieback\partieback\obj\Debug\partieback.pdb
